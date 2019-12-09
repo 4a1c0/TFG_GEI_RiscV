@@ -4,3 +4,6 @@
 [submodule "TFG-GEI_Informe_Seguiment_1"]
 	path = TFG-GEI_Informe_Seguiment_1
 	url = https://github.com/4a1c0/TFG-GEI_Informe_Seguiment_1
+[submodule "TFG-GEI_Informe_Final"]
+	path = TFG-GEI_Informe_Final
+	url = https://github.com/4a1c0/TFG-GEI_Informe_Final
