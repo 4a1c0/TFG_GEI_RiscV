@@ -7,3 +7,6 @@
 [submodule "TFG-GEI_Informe_Final"]
 	path = TFG-GEI_Informe_Final
 	url = https://github.com/4a1c0/TFG-GEI_Informe_Final
+[submodule "TFG-GEI_Informe_Seguiment_2"]
+	path = TFG-GEI_Informe_Seguiment_2
+	url = https://github.com/4a1c0/TFG-GEI_Informe_Seguiment_2
